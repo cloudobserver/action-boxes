@@ -1,0 +1,14 @@
+{
+  "name": "checkpoint_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^80.0.1"
+  }
+}
